@@ -1,3 +1,6 @@
-# maecon-econometrics
+# ma-econ-econometrics
 
-Questions and solutions from Econometrics I & II (Lentzas), Advanced Econometrics and Bayesian Econometrics (McNevin)
+Questions and solutions from courses
+• Econometrics I & II (Lentzas), 
+• Advanced Econometrics (McNevin),
+• Bayesian Econometrics (McNevin).
